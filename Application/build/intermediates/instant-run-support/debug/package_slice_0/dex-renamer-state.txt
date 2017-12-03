@@ -1,0 +1,4 @@
+#Sun Apr 16 18:50:29 EDT 2017
+base.0=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
+renamed.0=classes.dex
+file.0=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex

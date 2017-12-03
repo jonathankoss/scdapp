@@ -1,0 +1,16 @@
+#Sun Apr 16 18:50:29 EDT 2017
+renamed.4=classes4.dex
+renamed.3=classes5.dex
+renamed.2=classes2.dex
+renamed.1=classes.dex
+base.4=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\commons-io-2.0.1_c412edadca1a131587dc1c514328cd3d8da824e9
+renamed.0=classes3.dex
+base.3=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.1.0_d18ae046b7c806fa6e258128133fae08fb5bc176
+base.2=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ac2574832a7cb418d15fdb26893eb15412e2c9b8
+base.1=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\butterknife-annotations-8.5.1_010742b29b00730bf5723b2694a3cde96228cda0
+base.0=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e5d3bd2cebb54b7711fb0339d735e49db0e4233e
+file.4=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\commons-io-2.0.1_c412edadca1a131587dc1c514328cd3d8da824e9\\classes.dex
+file.3=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.1.0_d18ae046b7c806fa6e258128133fae08fb5bc176\\classes.dex
+file.2=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ac2574832a7cb418d15fdb26893eb15412e2c9b8\\classes.dex
+file.1=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\butterknife-annotations-8.5.1_010742b29b00730bf5723b2694a3cde96228cda0\\classes.dex
+file.0=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e5d3bd2cebb54b7711fb0339d735e49db0e4233e\\classes.dex

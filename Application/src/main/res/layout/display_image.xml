@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+ Copyright 2014 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/control"
+        android:layout_width="match_parent"
+        android:layout_height="112dp"
+        android:background="@color/control_background"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/capturedImage">
+
+        <Button
+            android:id="@+id/process"
+            android:layout_width="100dp"
+            android:layout_height="35dp"
+            android:layout_gravity="right|top"
+            android:text="process" />
+
+        <TextView
+            android:layout_width="122dp"
+            android:layout_height="41dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Cell Count: "
+            android:id="@+id/textView"
+            android:layout_gravity="left|bottom" />
+
+        <EditText
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="Enter Patient ID"
+            android:ems="10"
+            android:id="@+id/patientIDText"
+            android:layout_gravity="center_horizontal|top" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="29dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Protein Type: "
+            android:id="@+id/textView2"
+            android:layout_gravity="left|center_vertical"
+            android:textColor="#000000" />
+
+        <EditText
+            android:layout_width="125dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText"
+            android:layout_gravity="center"
+            android:hint="Enter Protein" />
+
+        <Button
+            android:id="@+id/newPicture"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_gravity="right"
+            android:layout_marginTop="35dp"
+            android:text="New Image" />
+
+        <Button
+            android:id="@+id/savePicture"
+            android:layout_width="100dp"
+            android:layout_height="35dp"
+            android:layout_gravity="right"
+            android:layout_marginTop="70dp"
+            android:text="Save"/>
+
+        <TextView
+            android:layout_width="122dp"
+            android:layout_height="41dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/cellCountText"
+            android:layout_gravity="center_horizontal|bottom" />
+
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:id="@+id/dateText"
+            android:layout_gravity="right|bottom"
+            android:layout_above="@+id/control"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:layout_width="110dp"
+            android:layout_height="38dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Patient ID: "
+            android:id="@+id/textViewProtein"
+            android:layout_gravity="left|top"
+            android:textColor="#000000" />
+
+
+    </FrameLayout>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="500dp"
+        android:id="@+id/capturedImage"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:scaleType="fitXY"/>
+
+
+</RelativeLayout>

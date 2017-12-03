@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jonko\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\jonko\Desktop\scd_app\Application\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_d18ae046b7c806fa6e258128133fae08fb5bc176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jonko\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.0.1\7ffdb02f95af1c1a208544e076cea5b8e66e731a\commons-io-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ffdb02f95af1c1a208544e076cea5b8e66e731a">
+        <dex dex="C:\Users\jonko\Desktop\scd_app\Application\build\intermediates\pre-dexed\debug\commons-io-2.0.1_c412edadca1a131587dc1c514328cd3d8da824e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jonko\.android\build-cache\946c129b1cd3bd9e3ec427e4ed9c419658a9a16b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\jonko\Desktop\scd_app\Application\build\intermediates\pre-dexed\debug\classes_e5d3bd2cebb54b7711fb0339d735e49db0e4233e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jonko\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="C:\Users\jonko\Desktop\scd_app\Application\build\intermediates\pre-dexed\debug\butterknife-annotations-8.5.1_010742b29b00730bf5723b2694a3cde96228cda0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jonko\.android\build-cache\db33824bd1ab01d03f7efbcd48e1832059231755\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="C:\Users\jonko\Desktop\scd_app\Application\build\intermediates\pre-dexed\debug\classes_ac2574832a7cb418d15fdb26893eb15412e2c9b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jonko\Desktop\scd_app\openCVLibrary310\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd0b5fe9b86387f76525159583082510338cb1c">
+        <dex dex="C:\Users\jonko\Desktop\scd_app\Application\build\intermediates\pre-dexed\debug\classes_4a52466553f29f1b54f6750c8335ed8ed2f0e8ee.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Sun Apr 16 18:54:04 EDT 2017
+2.base=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_main.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_camera2_basic.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+5.base=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_action_info.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\tile.9.png
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_camera.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\display_image.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\jonko\\Desktop\\scd_app\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-land\\fragment_camera2_basic.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
